@@ -1,0 +1,27 @@
+css power
+-inline***
+-internal**
+-external*
+
+selector
+
+		- tag/element  {for tag/element selector we use "tag/element name" ex: (h1)}
+
+		- class  *class="class name"*   {for class selector we use " (.class name)"}
+
+		- id  */id selector use for one time.*/ id="name"  {for id selector we use "(#name)" ex:<h1 id="taxt1">Wellcome</h1>  in external css we use #taxt1{ ...} }.
+
+
+ selector powor
+ 	- tag/element *
+
+ 	- class ** very important .
+
+ 	- id  ***
+
+ 	px,pt,em,rem,%  - measurement unit
+
+ 	color - name
+ 			- hex #000000
+ 			- rgb(00,00,00)
+ 			rgba(00 00 00 1)

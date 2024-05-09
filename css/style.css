@@ -1,0 +1,67 @@
+
+.header{
+	height:100px;
+	background-color: red;
+}
+
+.contener{
+	overflow: hidden;
+	
+
+}
+.blog{
+	float: left;
+width: 70%;
+height: 150px;
+background-color: green;
+}
+.contact{
+	float: right;
+	width: 30%;
+	height: 150px;
+	background-color: blue;
+
+}
+.box{
+float: left;
+	width: 30.3333%;
+	height: 100px;
+}
+
+
+.item1{
+	
+	background-color: lightcoral;
+}
+.item2{
+	background-color: gray;   
+}
+.item3{
+	background-color: orchid;
+}
+
+
+
+.footer{
+	height: 100px;
+	background-color: black;
+
+}
+.padd{
+	width: 100px;
+	height: 100px;
+	background-color: green;
+	padding: 50px 20px 10px 5px;
+	margin: 100px;
+}
+
+.box3{
+width: 50%;
+height: 400px;
+
+}
+.box4{
+	width: 100%;
+   height: 500px;
+   border: 0;
+}
